@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Buea",
+      "country": "Cameroon",
+      "emoji": "🇨🇲",
+      "date": "2023-07-16T04:54:47.066Z",
+      "notes": "",
+      "position": {
+        "lat": "4.1562457323999595",
+        "lng": "9.23243174113845"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Maper",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2023-07-16T05:20:06.551Z",
+      "notes": "",
+      "position": {
+        "lat": "7.460068926908932",
+        "lng": "29.935280992698182"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Nairobi",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2023-07-16T05:20:22.699Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.2877680444344861",
+        "lng": "36.84822569242938"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Almassora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-16T14:15:22.635Z",
+      "notes": "Besiges the water",
+      "position": {
+        "lat": "39.931195719854664",
+        "lng": "-0.010471343994140625"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Limbe",
+      "country": "Cameroon",
+      "emoji": "🇨🇲",
+      "date": "2023-07-16T14:16:02.470Z",
+      "notes": "Buea's girl friend",
+      "position": {
+        "lat": "4.0552000526198",
+        "lng": "9.23332214355469"
+      },
+      "id": 98443211
+    }
+  ]
+}
